@@ -2,7 +2,7 @@
 A simple/lightweight rsyslog server meant for debugging. Log messages are sent to stdout for viewing with `docker logs`.
 
 ##Quick Start
-###Build/Pull the image:
+###Pull the image:
 `docker pull rwestergren/simple-docker-rsyslog`
 
 ###Run an instance:
